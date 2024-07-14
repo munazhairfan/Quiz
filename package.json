@@ -5,8 +5,8 @@
   },
   "name": "quiz",
   "version": "1.0.0",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "quiz.js",
+  "bin": "quiz.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
