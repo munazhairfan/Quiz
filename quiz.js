@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 let questions = [chalk.yellow("Who painted the famous artwork \"Starry Night\"?\n"), chalk.yellow("What is the largest planet in our solar system?\n"),
